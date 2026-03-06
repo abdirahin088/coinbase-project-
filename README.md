@@ -111,3 +111,9 @@ This template comes with:
 ## Docs
 - [MCP Server Setup](./docs/MCP_SETUP.md)
 - [Setting up a starter app](./docs/STARTER_APP_SETUP.md)
+
+## Docs
+
+- [MCP Server Setup](./docs/MCP_SETUP.md)
+- [Starter App Setup](./docs/STARTER_APP_SETUP.md)
+- [AI Development Workflows](./docs/AI_DEVELOPMENT_WORKFLOWS.md)
