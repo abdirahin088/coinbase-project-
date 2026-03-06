@@ -107,3 +107,7 @@ This template comes with:
 - [CDP React Documentation](https://docs.cloud.coinbase.com/cdp/docs/react-components)
 - [CDP Portal](https://portal.cdp.coinbase.com)
 - [Vite Documentation](https://vitejs.dev)
+
+## Docs
+- [MCP Server Setup](./docs/MCP_SETUP.md)
+- [Setting up a starter app](./docs/STARTER_APP_SETUP.md)
