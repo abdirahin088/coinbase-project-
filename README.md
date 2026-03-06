@@ -121,3 +121,11 @@ This template comes with:
 ## AI Docs + MCP Setup
 
 - [MCP Server Setup](./docs/MCP_SETUP.md)
+
+## Docs
+
+- [MCP Server Setup](./docs/MCP_SETUP.md)
+- [Starter App Setup](./docs/STARTER_APP_SETUP.md)
+- [AI Development Workflows](./docs/AI_DEVELOPMENT_WORKFLOWS.md)
+- [AI Testing Strategies](./docs/AI_TESTING_STRATEGIES.md)
+- [AI Debugging Guide](./docs/AI_DEBUGGING.md)
